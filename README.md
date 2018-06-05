@@ -1,6 +1,6 @@
-# flutter_app_with_firestore
+# Flutter With Firestore
 
-A new Flutter application.
+A new Flutter application with Firestore integration.
 
 ## Getting Started
 
